@@ -2,22 +2,23 @@
 <h3 align="center">Aspiring Software Developer | DSA & Web Development Enthusiast | AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Passionate+about+technology+&+learning.;Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;Striving+to+build+real-world+solutions.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Passionate+about+technology+and+learning.;Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;Striving+to+build+real-world+solutions.">
 </p>
 
 ---
 
 ## 🧩 About Me
 
-I'm a Computer Science undergraduate passionate about software development and solving real-world problems using code.  
+I'm a Computer Science undergraduate who is  
+**passionate about technology and solving real-world problems through code.**  
 Currently, I'm focusing on:
 
-- 👩‍💻 Web Development fundamentals (HTML, CSS, JS)
-- 📘 Strengthening DSA skills using **C++**
-- 🤖 Understanding core AI/ML concepts
-- 🚀 Building small projects to apply what I learn
+- 👩‍💻 Web Development fundamentals (HTML, CSS, JavaScript)  
+- 📘 Strengthening DSA skills using **C++**  
+- 🤖 Understanding core AI/ML concepts  
+- 🚀 Building small projects to apply what I learn  
 
-I'm curious, consistent, and always open to new ideas and collaboration.
+I’m curious, consistent, and always open to collaboration and new ideas.
 
 ---
 
@@ -38,10 +39,10 @@ I'm curious, consistent, and always open to new ideas and collaboration.
 
 ## 📌 Current Focus
 
-- 🔭 Building small-scale responsive websites
-- 💡 Practicing algorithms & data structures daily
-- 🧠 Learning basics of machine learning with Python
-- 🛠️ Using Git/GitHub for version control
+- 🔭 Building responsive websites  
+- 💡 Practicing algorithms & data structures in C++  
+- 🧠 Learning machine learning foundations  
+- 🛠️ Using Git & GitHub for version control  
 
 ---
 
@@ -51,7 +52,7 @@ I'm curious, consistent, and always open to new ideas and collaboration.
 |--------|-------------|
 | [🌐 Portfolio Website](https://github.com/jane-rahmat/portfolio-website) | A personal website to showcase my skills, journey, and projects. |
 | [📚 DSA Practice](https://github.com/jane-rahmat/dsa-practice) | Solving Data Structures & Algorithms problems using C++. |
-| [🧠 ML Notes](https://github.com/jane-rahmat/ml-notes) | My notes while learning Machine Learning basics. |
+| [🧠 ML Notes](https://github.com/jane-rahmat/ml-notes) | Notes while learning Machine Learning basics. |
 
 ---
 
