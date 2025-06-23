@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | DSA & Web Development Enthusiast | AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=passionate+about+technology+and+learning.;Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;Striving+to+build+real-world+solutions.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Passionate+about+technology+&+learning.;Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;Striving+to+build+real-world+solutions.">
 </p>
 
 ---
