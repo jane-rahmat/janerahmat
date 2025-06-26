@@ -1,90 +1,76 @@
-<h1 align="center">Hi, I'm Jane Rahmat 👋</h1>
-<h3 align="center">Aspiring Software Developer | DSA & Web Development Enthusiast | AI/ML Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=👩‍💻+Coding+with+Passion+and+Purpose.;💡+Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;🚀+Building+Real-World+Projects!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Elk-zone/hello-elk/blob/main/public/robot.gif?raw=true" width="300"/>
-</p>
-
----
-
-## 🧠 About Me
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=25&animation=fadeIn&fontAlignY=35" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="80%" />
 </div>
 
-🎓 I'm a Computer Science undergrad with a strong love for building, learning, and collaborating on tech that matters.  
-I thrive on challenges and turning ideas into reality through code.  
-
-### 📌 Currently Working On:
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- 💻 Data Structures & Algorithms in C++
-- 🤖 Core concepts of AI/ML
-- ⚙️ Real-world mini projects
-
----
-
-## 💼 Tech Stack & Tools
+<h1 align="center">Hi, I'm Jane Rahmat 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Web+Dev+%7C+AI%2FML+%7C+DSA+Enthusiast;Building+Projects+%7C+Love+Collaboration" alt="Typing SVG" />
 </p>
-
----
-
-## ✨ Projects
-
-| 🚀 Project | 💬 Description |
-|-----------|----------------|
-| [🌐 Portfolio Website](https://github.com/jane-rahmat/portfolio-website) | A stylish and responsive personal portfolio site to showcase my work. |
-| [📚 DSA Practice](https://github.com/jane-rahmat/dsa-practice) | My journey solving DSA problems in C++. |
-| [🧠 ML Notes](https://github.com/jane-rahmat/ml-notes) | Notes and key concepts while learning ML from scratch. |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jane-rahmat&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jane-rahmat&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jane-rahmat&theme=github_dark" width="95%"/>
-</p>
-
----
-
-## 🎥 Say Hello (By ElK Robot 🤖)
-
-<p align="center">
-  <video src="https://github.com/Elk-zone/hello-elk/assets/hellobot.mp4" width="400" controls autoplay muted loop></video>
-</p>
-
-_Or check this cool bot on [GitHub](https://github.com/Elk-zone/hello-elk)!_
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:jane.rahmat@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jane-rahmat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💬 Quote of the Day
-> **_"Code is not just a skill, it's a superpower to solve problems."_**  
-> — *Jane Rahmat*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="350"/>
+</div>
+
+---
+
+## 💫 About Me:
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="250" />
+
+🎓 Computer Science (AIML) Student  
+🌐 Exploring Web Dev: HTML, CSS, JavaScript, React  
+📘 DSA in C++ | 🤖 AI/ML (Python, NLP, Neural Nets)  
+🚀 Building Projects | 💬 Love Collaboration & Challenges  
+
+---
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janerahmat7@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50"/>
+</div>
+
+---
+
+## 📈 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jane-rahmat&theme=tokyonight&hide_border=false&count_private=true&show_icons=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=jane-rahmat&theme=tokyonight&hide_border=false" width="47%" />
+</div>
+
+---
+
+## 🧩 Contribution Graph:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jane-rahmat&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+### ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jane-rahmat&icon=0&color=12" alt="visit count"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300" />
+  <h3>✨ Thank You for Visiting! ✨</h3>
 </div>
