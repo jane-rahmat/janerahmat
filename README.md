@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="80%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="75%" />
 </div>
 
 <h1 align="center">Hi, I'm Jane Rahmat 👋</h1>
@@ -9,27 +9,31 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="350"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="320"/>
 </div>
 
 ---
 
 ## 💫 About Me:
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="250" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="240" />
 
-🎓 Computer Science (AIML) Student  
-🌐 Exploring Web Dev: HTML, CSS, JavaScript, React  
-📘 DSA in C++ | 🤖 AI/ML (Python, NLP, Neural Nets)  
-🚀 Building Projects | 💬 Love Collaboration & Challenges  
+- 🎓 Computer Science (AIML) Student  
+- 🌐 Exploring Web Development: HTML, CSS, JavaScript, React  
+- 📘 DSA in C++ | 🤖 AI/ML (Python, NLP, Neural Networks)  
+- 🚀 Passionate about building real-world projects & learning collaboratively  
 
 ---
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janerahmat7@gmail.com)
+## 🌐 Contact & Links:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janerahmat7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Resume](https://img.shields.io/badge/Resume-1f425f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-link.com)
 
 ---
 
 ## 💻 Tech Stack:
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
@@ -58,19 +62,14 @@
 
 ---
 
-### ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+### 💬 Developer Wisdom
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jane-rahmat&icon=0&color=12" alt="visit count"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="300" />
-  <h3>✨ Thank You for Visiting! ✨</h3>
-</div>
+<p align="center"><strong>🚀 Keep Learning. Keep Building. Keep Growing.</strong></p>
+
+
