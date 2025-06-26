@@ -2,79 +2,89 @@
 <h3 align="center">Aspiring Software Developer | DSA & Web Development Enthusiast | AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Passionate+about+technology+and+learning.;Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;Striving+to+build+real-world+solutions.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=👩‍💻+Coding+with+Passion+and+Purpose.;💡+Exploring+Web+Dev%2C+DSA%2C+and+AI%2FML.;🚀+Building+Real-World+Projects!" alt="Typing SVG" />
 </p>
-
----
-
-## 🧩 About Me
-
-I'm a Computer Science undergraduate who is  
-**passionate about technology and solving real-world problems through code.**  
-Currently, I'm focusing on:
-
-- 👩‍💻 Web Development fundamentals (HTML, CSS, JavaScript)  
-- 📘 Strengthening DSA skills using **C++**  
-- 🤖 Understanding core AI/ML concepts  
-- 🚀 Building small projects to apply what I learn  
-
-I’m curious, consistent, and always open to collaboration and new ideas.
-
----
-
-## 🛠️ Technologies & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- 🔭 Building responsive websites  
-- 💡 Practicing algorithms & data structures in C++  
-- 🧠 Learning machine learning foundations  
-- 🛠️ Using Git & GitHub for version control  
-
----
-
-## 📂 Highlighted Projects
-
-| Project | Description |
-|--------|-------------|
-| [🌐 Portfolio Website](https://github.com/jane-rahmat/portfolio-website) | A personal website to showcase my skills, journey, and projects. |
-| [📚 DSA Practice](https://github.com/jane-rahmat/dsa-practice) | Solving Data Structures & Algorithms problems using C++. |
-| [🧠 ML Notes](https://github.com/jane-rahmat/ml-notes) | Notes while learning Machine Learning basics. |
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jane-rahmat&show_icons=true&theme=github_dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jane-rahmat&theme=github-dark&hide_border=true" width="45%" />
+  <img src="https://github.com/Elk-zone/hello-elk/blob/main/public/robot.gif?raw=true" width="300"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🧠 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=25&animation=fadeIn&fontAlignY=35" />
+</div>
 
-<a href="mailto:jane.rahmat@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jane-rahmat">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🎓 I'm a Computer Science undergrad with a strong love for building, learning, and collaborating on tech that matters.  
+I thrive on challenges and turning ideas into reality through code.  
+
+### 📌 Currently Working On:
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 💻 Data Structures & Algorithms in C++
+- 🤖 Core concepts of AI/ML
+- ⚙️ Real-world mini projects
 
 ---
 
-> 🧠 _"Code is not just a skill, it's a superpower to solve problems."_  
-> — Jane Rahmat
+## 💼 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode" />
+</p>
+
+---
+
+## ✨ Projects
+
+| 🚀 Project | 💬 Description |
+|-----------|----------------|
+| [🌐 Portfolio Website](https://github.com/jane-rahmat/portfolio-website) | A stylish and responsive personal portfolio site to showcase my work. |
+| [📚 DSA Practice](https://github.com/jane-rahmat/dsa-practice) | My journey solving DSA problems in C++. |
+| [🧠 ML Notes](https://github.com/jane-rahmat/ml-notes) | Notes and key concepts while learning ML from scratch. |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jane-rahmat&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jane-rahmat&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jane-rahmat&theme=github_dark" width="95%"/>
+</p>
+
+---
+
+## 🎥 Say Hello (By ElK Robot 🤖)
+
+<p align="center">
+  <video src="https://github.com/Elk-zone/hello-elk/assets/hellobot.mp4" width="400" controls autoplay muted loop></video>
+</p>
+
+_Or check this cool bot on [GitHub](https://github.com/Elk-zone/hello-elk)!_
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:jane.rahmat@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jane-rahmat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💬 Quote of the Day
+> **_"Code is not just a skill, it's a superpower to solve problems."_**  
+> — *Jane Rahmat*
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
