@@ -15,7 +15,7 @@
 ---
 
 ## 💫 About Me:
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="240" />
+
 
 - 🎓 Computer Science (AIML) Student  
 - 🌐 Exploring Web Development: HTML, CSS, JavaScript, React  
